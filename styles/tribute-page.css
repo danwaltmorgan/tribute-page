@@ -1,0 +1,53 @@
+body {
+  background: #ffdf80;
+  margin: auto;
+  text-align: center;
+}
+
+#main {
+  width: 600px;
+  height: 95%;
+  margin: auto;
+  background: hsla(0, 0%, 70%, 0.75);
+  box-shadow: 0 0 5px 2px #555;
+
+}
+
+#map {
+    max-width: 450px;
+}
+
+img {
+  display: block;
+  margin: 0px auto;
+  width: 95%;
+  height: auto;
+  max-width: auto;
+}
+#image {
+  max-width: 451px;
+  padding-top: 10px;
+}
+
+#img-div {
+  margin: auto;
+  height: auto;
+  width: 500px;
+  background: hsla(180, 75%, 30%, 0.5);
+  box-shadow: 0 0 5px 2px #555;
+}
+
+.img-container {
+  margin:auto;
+  height: auto;
+  background: hsla(180, 75%, 30%, 0.5);
+  width: 500px;
+  padding:10px 0px 10px 0px;
+  box-shadow: 0 0 5px 2px #555;
+
+}
+
+ul {
+  text-align: left;
+  padding-right: 5px;
+}
